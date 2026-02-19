@@ -1,5 +1,0 @@
-=== Logistic Regression — CV (10-fold, scoring=roc_auc) ===
-Best params: {'model__C': 1.0, 'model__class_weight': None}
-CV mean: 0.984590 | CV std: 0.009898
-
-Logistic Regression | Accuracy=0.9339 +/- 0.0173 | Precision=0.7306 +/- 0.0536 | Recall=0.9338 +/- 0.0596 | F1-score=0.8198 +/- 0.0420 | ROC AUC=0.9892 +/- 0.0061
