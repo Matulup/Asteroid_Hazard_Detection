@@ -1,0 +1,5 @@
+=== MLP — CV (10-fold, scoring=roc_auc) ===
+Best params: {'model__learning_rate_init': 0.001, 'model__hidden_layer_sizes': (128, 64), 'model__alpha': 0.001}
+CV mean: 0.997717 | CV std: 0.002051
+
+MLP | Accuracy=0.9904 +/- 0.0100 | Precision=0.9671 +/- 0.0420 | Recall=0.9735 +/- 0.0327 | F1-score=0.9703 +/- 0.0307 | ROC AUC=0.9994 +/- 0.0013

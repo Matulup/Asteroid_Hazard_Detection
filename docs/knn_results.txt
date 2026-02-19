@@ -1,0 +1,5 @@
+=== KNN — CV (10-fold, scoring=roc_auc) ===
+Best params: {'model__metric': 'minkowski', 'model__n_neighbors': 11, 'model__weights': 'distance'}
+CV mean: 0.953541 | CV std: 0.009167
+
+KNN | Accuracy=0.8838 +/- 0.0269 | Precision=0.5897 +/- 0.0655 | Recall=0.9139 +/- 0.0602 | F1-score=0.7169 +/- 0.0529 | ROC AUC=0.9532 +/- 0.0214
