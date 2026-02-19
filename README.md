@@ -20,7 +20,7 @@ Asteroid_Hazard_Detection/
 │   ├── rules.pl               # Regole Prolog (trigger singoli, composti, pesi, score)
 │   ├── main.pl                # Entry point Prolog
 │   └── kb.py                  # Interfaccia Python-Prolog
-├── docs/                      # Risultati, curve ROC
+├── docs/                      # Documentazione
 ├── main.py                    # Pipeline principale
 ├── requirements.txt
 └── README.md
