@@ -1,5 +1,11 @@
 __pycache__/
-*.pyc
-*.pyo
-.env/
-venv/
+docs/dt_results.txt
+docs/knn_results.txt
+docs/log_results.txt
+docs/mlp_results.txt
+docs/rf_results.txt
+docs/roc_dt_cv.png
+docs/roc_knn_cv.png
+docs/roc_logreg_cv.png
+docs/roc_mlp_cv.png
+docs/roc_rf_cv.png
